@@ -1,11 +1,9 @@
 Hi there 👋!
 
 Who I am?
-A Full-Stack Developer based in tel aviv, israel.
-See my portfolio at arifszn.com.
-What I'm doing?
-Writing, JavaScript, React,js, Node.js, Vue.js.
-What are my skill sets?
+• A Full-Stack Developer based in tel aviv, israel.
+• Writing, JavaScript, React,js, Node.js, Vue.js.
+• What are my skill sets?
 🖥 Frontend:
 
 Language: JavaScript
