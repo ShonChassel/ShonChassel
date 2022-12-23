@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shon Chassel</h1>
-<h3 align="center">Frontend / Full-Stack Web Developer with experience in writing single-page-applications using the latest WEB technologies (Vue.js, Vuex, Node.js, React.js, Angular, MongoDB, etc).</h3>
+<h3 align="center">Frontend / Full-Stack Web Developer with experience in writing single-page-applications using the latest WEB technologies (JavaScript, Vue.js, Vuex, Node.js, React.js, Angular, MongoDB, etc).</h3>
 
 - 🔭 I’m currently working on [Airbxb - a Airbxb clone project](https://air-bxb.onrender.com/)
 
