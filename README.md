@@ -26,4 +26,4 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ShonChassel&show_icons=true&theme=transparent" alt="ShonChassel" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShonChassel&show_icons=true&theme=transparent)
+
