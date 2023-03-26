@@ -5,7 +5,14 @@
 
 - 🌱 I’m currently learning **Vue.js, Vuex, Node.js, React.js, Redux, Angular, MongoDB, Firebase etc.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShonChassel](https://github.com/ShonChassel)
+- 👨‍💻  my personal Web  [https://shonchassel.com/](shonchassel.com)
+
+- 👾 All of my projects ⬇️⬇
+- 
+- Airbxb - [https://air-bxb.onrender.com/](Airbxb)
+- Netflix - [https://netflix2-0-eosin.vercel.app/](Netflix)
+- Spotify - [https://spotify-il.vercel.app/](Spotify)
+- Appsus - [https://shonchassel.github.io/Appsus/#/](Appsus)
 
 - 📫 How to reach me **gershoni1234@gmail.com**
 
