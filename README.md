@@ -8,7 +8,7 @@
 - 👨‍💻  my personal Web  [https://shonchassel.com/](shonchassel.com)
 
 - 👾 All of my projects ⬇️⬇
-- 
+
 - Airbxb - [https://air-bxb.onrender.com/](Airbxb)
 - Netflix - [https://netflix2-0-eosin.vercel.app/](Netflix)
 - Spotify - [https://spotify-il.vercel.app/](Spotify)
