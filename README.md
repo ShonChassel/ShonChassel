@@ -9,7 +9,7 @@
 
 - 👾 All of my projects ⬇️⬇
 
-- Airbxb - [https://air-bxb.onrender.com/](Airbxb)
+- Airbxb - [Airbxb](https://air-bxb.onrender.com)
 - Netflix - [https://netflix2-0-eosin.vercel.app/](Netflix)
 - Spotify - [https://spotify-il.vercel.app/](Spotify)
 - Appsus - [https://shonchassel.github.io/Appsus/#/](Appsus)
