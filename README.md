@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shon Chassel</h1>
 <h3 align="center">Frontend / Full-Stack Web Developer with experience in writing single-page-applications using the latest WEB technologies (JavaScript, Vue.js, Vuex, Node.js, React.js, Angular, MongoDB, etc).</h3>
-<a href="https://www.buymeacoffee.com/gershoni120"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="matrix278" /></a>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=matrix278&label=Profile%20views&color=48c030&style=flat" height="25" width="130" alt="" />
+<a href="https://www.buymeacoffee.com/gershoni120"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="" /></a>
+</div>
 
 - 🔭 I’m currently working on [Airbxb - a Airbxb clone project](https://air-bxb.onrender.com/)
 
