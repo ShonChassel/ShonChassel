@@ -15,7 +15,8 @@
 - 👾 All of my projects ⬇️⬇
 
 - Airbxb - [Airbxb](https://air-bxb.onrender.com)
-- Netflix - [Netflix](https://netflix2-0-eosin.vercel.app/)
+- Booknow - [Booknow](https://booknow-com-bw6y.onrender.com/)
+- Netflix - [Netflix](https://netflix-il.vercel.app/)
 - Spotify - [Spotify](https://spotify-il.vercel.app/)
 - Appsus - [Appsus](https://shonchassel.github.io/Appsus/#/)
 
